@@ -2,6 +2,11 @@
 Problem Statement  
 With the increasing demand for international talent in the United States, it is important to understand the H1B visa application process and the factors that impact visa approval rates. The H1B Visa Petition dataset contains information on thousands of visa applications, including job positions, industries, employers, and geographic locations. However, the dataset is complex and requires analysis to identify trends and patterns. The problem statement is to use this dataset to gain insights into the H1B visa application process and identify factors that impact visa approval rates, with the goal of improving the visa application process, ensuring compliance with regulations, and facilitating the hiring of international talent. 
 
+![image](https://github.com/Twinkle-Rakesh-Jain/H1BVisaPetitions/assets/159181933/1fbb932e-15f0-4748-8709-3690b8a4230f)
+
+
+
+
 Visualisation Charts
 
 For our visualisation charts, we decided to use Tableau to create few interesting charts.
